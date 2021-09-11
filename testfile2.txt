@@ -1,2 +1,3 @@
 Statistica
 Grafici
+Aggiungo la terza riga per provare compare
